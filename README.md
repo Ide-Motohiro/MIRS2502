@@ -1,1 +1,2 @@
 # MIRS2502
+井出です、vscodeからcommitとpushできるか確認してます
